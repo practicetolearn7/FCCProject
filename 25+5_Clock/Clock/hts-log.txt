@@ -1,0 +1,11 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Thu, 31 Aug 2023 04:16:11 at https://25--5-clock.freecodecamp.rocks/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://25--5-clock.freecodecamp.rocks/ -O "/home/jhiem/Desktop/edu/Projects/25+5_Clock/Clock" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 seconds : 10 links scanned, 8 files written (628287 bytes overall) [223339 bytes received at 22333 bytes/sec], 628078 bytes transferred using HTTP compression in 9 files, ratio 33%, 1.4 requests per connection
+(No errors, 0 warnings, 0 messages)
