@@ -1,0 +1,11 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Wed, 30 Aug 2023 21:05:33 at http://https://drum-machine.freecodecamp.rocks/ http://https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css http://https://unpkg.com/react@17/umd/react.production.min.js http://https://unpkg.com/react-dom@17/umd/react-dom.production.min.js http://https://drum-machine.freecodecamp.rocks/bundle.js +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://https://drum-machine.freecodecamp.rocks/ http://https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css http://https://unpkg.com/react@17/umd/react.production.min.js http://https://unpkg.com/react-dom@17/umd/react-dom.production.min.js http://https://drum-machine.freecodecamp.rocks/bundle.js -O "/home/jhiem/Desktop/edu/Projects/DRUM_MACHINE/drum_machine" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 seconds : 8 links scanned, 7 files written (620670 bytes overall) [236977 bytes received at 26330 bytes/sec], 620938 bytes transferred using HTTP compression in 10 files, ratio 36%, 2.0 requests per connection
+(No errors, 0 warnings, 0 messages)
